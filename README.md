@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 ![tarjeta de presentación](/assets/Ana%20Ang%C3%A9lica%20Castro.png)
-<!--
 
 
 Hello and welcome to my GitHub profile! I am a nanotechnology engineer with a passion for the IT industry. Through my studies and personal interests, I have developed skills in JavaScript, HTML, CSS, Node.js, and Python. While I may not consider myself an expert just yet, I am always eager to learn and improve my abilities. On my GitHub, you will find various projects that showcase my skills and interests. Thank you for taking the time to visit my profile!
 
+<!--
 **anangelicacyz/anangelicacyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
